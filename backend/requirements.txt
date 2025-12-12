@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+python-dotenv
+motor
+pillow
+aiofiles
+pydantic-settings
+requests
