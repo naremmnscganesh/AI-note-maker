@@ -2,7 +2,7 @@
 
 A powerful AI-powered application that transforms lecture audio, whiteboard images, and rough notes into structured, high-quality study guides using Google Gemini.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Multimodal+AI+Note-Taker) 
+**Project View**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08c36a2a-c1a8-4c9a-835b-c9bf497ffc24" />
 
 
